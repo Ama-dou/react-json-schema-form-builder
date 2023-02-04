@@ -67,7 +67,7 @@ export default function Add({
         className={`add-details ${classes.addDetails}`}
         id={`${elementId}_add_popover`}
       >
-        <PopoverHeader>Create New</PopoverHeader>
+        <PopoverHeader>Create Newwwwwww</PopoverHeader>
         <PopoverBody>
           <FBRadioGroup
             className='choose-create'
